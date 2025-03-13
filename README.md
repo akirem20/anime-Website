@@ -10,7 +10,7 @@ This is a Manga App project that allows users to browse and explore manga titles
 - View manga details
 - Responsive design
 ## Technologies Used
-- Frontend: HTML, CSS, JavaScript
+- Frontend: HTML, CSS, JavaScript, API integration
 - Framework: React (with Vite)
 - Package Manager: npm
 - Styling: CSS 
