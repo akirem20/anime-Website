@@ -1,6 +1,6 @@
 # Manga App
 
-![Manga App](image/anime2.png)
+![Manga App](image/anime1.png)
 
 This is a Manga App project that allows users to browse and explore manga titles.
 
